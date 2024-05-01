@@ -1,0 +1,56 @@
+
+
+.container {
+    font-display: flex;
+    direction: unset;
+    height: 140px;
+    padding: 16px;
+    background: goldenrod;
+    border: 4px solid black
+}
+    
+    .item {
+    text-align: center;
+    background-size: 40px;
+    
+}
+
+.info {
+    color: rgb(10, 1, 1);
+    height: 20px;
+    border: 10px;
+    text-align: var(200px);
+}
+
+button {
+background-color: brown;
+color: white
+}
+
+.flex-container {
+    display: flex;
+    height: 140px;
+    padding: 16px;
+    background: burlywood;
+    border: 8px whitesmoke;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.nua-profiles {
+    width: 100px;
+    border: 40px;
+    height: 100px;
+}
+
+.flex-layer1 {
+    display: flex;
+    flex-direction: column;
+    background-size: 20px;
+    width: 200px;
+    align-items: center;
+    background-color: white;
+}
+
